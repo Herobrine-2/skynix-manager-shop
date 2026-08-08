@@ -1,5 +1,14 @@
 [
   {
+    "id": "pale-zed-yh0nxx-shop",
+    "name": "Pale Zed By Yh0nxx",
+    "title": "Zed",
+    "author": "Yh0nxx",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pale%20Zed%20By%20Yh0nxx%201.0.0-shop/Ekran_goruntusu_2026-07-29_150215.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pale%20Zed%20By%20Yh0nxx%201.0.0-shop/Pale%20Zed%20By%20Yh0nxx.fantome",
+    "category": "champion"
+  },
+  {
     "id": "ashen-edge-zed-by-herobrine-1-0-4-shop",
     "name": "Ashen Edge Zed By Herobrine",
     "title": "Zed",
