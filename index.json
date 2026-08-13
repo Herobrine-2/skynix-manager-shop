@@ -2530,5 +2530,41 @@
         "priceType":  "free",
         "champ":  "Map",
         "img":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Winter%20Rift%202025%20by%20TheKillerey/6ea8c755-fc34-481e-44e2-968cdc57d600.webp"
+    },
+    {
+        "id":  "japanese-announcer",
+        "name":  "Japanese Announcer",
+        "title":  "Audio Mod",
+        "author":  "Unknown",
+        "previewUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Japanese%20Announcer/thumb%202.png",
+        "downloadUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Japanese%20Announcer/Japanese%20Announcer.fantome",
+        "category":  "audio",
+        "priceType":  "free",
+        "champ":  "Audio",
+        "img":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Japanese%20Announcer/thumb%202.png"
+    },
+    {
+        "id":  "korean-announcer",
+        "name":  "Korean Announcer",
+        "title":  "Audio Mod",
+        "author":  "Unknown",
+        "previewUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Korean%20Announcer/thumb.png",
+        "downloadUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Korean%20Announcer/Korean%20Announcer.fantome",
+        "category":  "audio",
+        "priceType":  "free",
+        "champ":  "Audio",
+        "img":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Korean%20Announcer/thumb.png"
+    },
+    {
+        "id":  "minecraft-sound-effects-bgm-1-2-0",
+        "name":  "minecraft-sound-effects-bgm_1.2.0",
+        "title":  "Audio Mod",
+        "author":  "Unknown",
+        "previewUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/minecraft-sound-effects-bgm_1.2.0/02e5a17f-33a3-45f6-57f7-cb803d092f00.webp",
+        "downloadUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/minecraft-sound-effects-bgm_1.2.0/minecraft-sound-effects-bgm_1.2.0.fantome",
+        "category":  "audio",
+        "priceType":  "free",
+        "champ":  "Audio",
+        "img":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/minecraft-sound-effects-bgm_1.2.0/02e5a17f-33a3-45f6-57f7-cb803d092f00.webp"
     }
 ]
