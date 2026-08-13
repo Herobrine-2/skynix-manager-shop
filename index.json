@@ -682,5 +682,905 @@
     "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/%C5%9Ehogun%20Zed%20By%20Herobrine%20v1.0.3/zedloadscreen_shogun.png",
     "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/%C5%9Ehogun%20Zed%20By%20Herobrine%20v1.0.3/%C5%9Ehogun%20Zed%20By%20Herobrine%20v1.0.3.fantome",
     "category": "champion"
+  },
+  {
+    "id": "amber-default",
+    "name": "Amber - Default",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Amber%20-%20Default/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Amber%20-%20Default/Amber%20-%20Default.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "amber-project",
+    "name": "Amber - PROJECT",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Amber%20-%20PROJECT/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Amber%20-%20PROJECT/Amber%20-%20PROJECT.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "amethyst-death-sworn",
+    "name": "Amethyst - Death Sworn",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Amethyst%20-%20Death%20Sworn/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Amethyst%20-%20Death%20Sworn/Amethyst%20-%20Death%20Sworn.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "amethyst-void-cosmic-reaver",
+    "name": "Amethyst Void - Cosmic Reaver",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Amethyst%20Void%20-%20Cosmic%20Reaver/Amethyst_Void_-_Cosmic_Reaver_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Amethyst%20Void%20-%20Cosmic%20Reaver/Amethyst%20Void%20-%20Cosmic%20Reaver.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "aqua-empyrean",
+    "name": "Aqua - Empyrean",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Aqua%20-%20Empyrean/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Aqua%20-%20Empyrean/Aqua%20-%20Empyrean.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "aqua-psyops",
+    "name": "Aqua - PsyOps",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Aqua%20-%20PsyOps/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Aqua%20-%20PsyOps/Aqua%20-%20PsyOps.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "aqua-depths-shockblade",
+    "name": "Aqua Depths - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Aqua%20Depths%20-%20Shockblade/Aqua_Depths_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Aqua%20Depths%20-%20Shockblade/Aqua%20Depths%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "arclight-shockblade",
+    "name": "Arclight - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Arclight%20-%20Shockblade/Arclight_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Arclight%20-%20Shockblade/Arclight%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "ashen-knight-galaxy-slayer",
+    "name": "Ashen Knight - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ashen%20Knight%20-%20Galaxy%20Slayer/Ashen_Knight_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ashen%20Knight%20-%20Galaxy%20Slayer/Ashen%20Knight%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "azure-default",
+    "name": "Azure - Default",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Azure%20-%20Default/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Azure%20-%20Default/Azure%20-%20Default.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "azure-prestige-spirit-blossom",
+    "name": "Azure - Prestige Spirit Blossom",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Azure%20-%20Prestige%20Spirit%20Blossom/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Azure%20-%20Prestige%20Spirit%20Blossom/Azure%20-%20Prestige%20Spirit%20Blossom.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "azure-skt-t1",
+    "name": "Azure - SKT T1",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Azure%20-%20SKT%20T1/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Azure%20-%20SKT%20T1/Azure%20-%20SKT%20T1.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "azure-worlds-2016",
+    "name": "Azure - Worlds 2016",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Azure%20-%20Worlds%202016/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Azure%20-%20Worlds%202016/Azure%20-%20Worlds%202016.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "bendan-shockblade",
+    "name": "Bendan - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Bendan%20-%20Shockblade/Bendan_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Bendan%20-%20Shockblade/Bendan%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "bewitching-galaxy-slayer",
+    "name": "Bewitching - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Bewitching%20-%20Galaxy%20Slayer/Bewitching_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Bewitching%20-%20Galaxy%20Slayer/Bewitching%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "black-worlds-2016",
+    "name": "Black - Worlds 2016",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20-%20Worlds%202016/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20-%20Worlds%202016/Black%20-%20Worlds%202016.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "black-gold-shockblade",
+    "name": "Black Gold - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Gold%20-%20Shockblade/Black_Gold_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Gold%20-%20Shockblade/Black%20Gold%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "black-gold-ascended-shockblade",
+    "name": "Black Gold Ascended - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Gold%20Ascended%20-%20Shockblade/Black_Gold_Ascended_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Gold%20Ascended%20-%20Shockblade/Black%20Gold%20Ascended%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "black-lightning-shockblade",
+    "name": "Black Lightning - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Lightning%20-%20Shockblade/Black_Lightning_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Lightning%20-%20Shockblade/Black%20Lightning%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "blood-clouds-shockblade",
+    "name": "Blood Clouds - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood%20Clouds%20-%20Shockblade/Blood_Clouds_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood%20Clouds%20-%20Shockblade/Blood%20Clouds%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "blood-moon-galaxy-slayer",
+    "name": "Blood Moon - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood%20Moon%20-%20Galaxy%20Slayer/Blood_Moon_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood%20Moon%20-%20Galaxy%20Slayer/Blood%20Moon%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "blue-astral-galaxy-slayer",
+    "name": "Blue Astral - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Astral%20-%20Galaxy%20Slayer/Blue_Astral_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Astral%20-%20Galaxy%20Slayer/Blue%20Astral%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "blue-blade-immortal-journey",
+    "name": "Blue Blade - Immortal Journey",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Blade%20-%20Immortal%20Journey/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Blade%20-%20Immortal%20Journey/Blue%20Blade%20-%20Immortal%20Journey.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "blue-clouds-shockblade",
+    "name": "Blue Clouds - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Clouds%20-%20Shockblade/Blue_Clouds_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Clouds%20-%20Shockblade/Blue%20Clouds%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "blue-sakura-shockblade",
+    "name": "Blue Sakura - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Sakura%20-%20Shockblade/Blue_Sakura_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Sakura%20-%20Shockblade/Blue%20Sakura%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "blue-sky-shockblade",
+    "name": "Blue Sky - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Sky%20-%20Shockblade/Blue_Sky_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Sky%20-%20Shockblade/Blue%20Sky%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "blue-space-galaxy-slayer",
+    "name": "Blue Space - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Space%20-%20Galaxy%20Slayer/Blue_Space_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blue%20Space%20-%20Galaxy%20Slayer/Blue%20Space%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "candy-galaxy-slayer",
+    "name": "Candy - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Candy%20-%20Galaxy%20Slayer/Candy_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Candy%20-%20Galaxy%20Slayer/Candy%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "colorless-immortal-journey",
+    "name": "Colorless - Immortal Journey",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Colorless%20-%20Immortal%20Journey/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Colorless%20-%20Immortal%20Journey/Colorless%20-%20Immortal%20Journey.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "corrupted-quantum-galaxy-slayer",
+    "name": "Corrupted - Quantum Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Corrupted%20-%20Quantum%20Galaxy%20Slayer/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Corrupted%20-%20Quantum%20Galaxy%20Slayer/Corrupted%20-%20Quantum%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "cosmic-astral-galaxy-slayer",
+    "name": "Cosmic Astral - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cosmic%20Astral%20-%20Galaxy%20Slayer/Cosmic_Astral_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cosmic%20Astral%20-%20Galaxy%20Slayer/Cosmic%20Astral%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "crimson-lotus-enduring-sword",
+    "name": "Crimson Lotus - Enduring Sword",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Crimson%20Lotus%20-%20Enduring%20Sword/Crimson_Lotus_-_Enduring_Sword_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Crimson%20Lotus%20-%20Enduring%20Sword/Crimson%20Lotus%20-%20Enduring%20Sword.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "crimson-reaper-high-noon",
+    "name": "Crimson Reaper - High Noon",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Crimson%20Reaper%20-%20High%20Noon/Crimson_Reaper_-_High_Noon_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Crimson%20Reaper%20-%20High%20Noon/Crimson%20Reaper%20-%20High%20Noon.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "cyan-blood-moon",
+    "name": "Cyan - Blood Moon",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cyan%20-%20Blood%20Moon/DISCORD_Cyan.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cyan%20-%20Blood%20Moon/Cyan%20-%20Blood%20Moon.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "cyan-prestige-project",
+    "name": "Cyan - Prestige PROJECT",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cyan%20-%20Prestige%20PROJECT/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cyan%20-%20Prestige%20PROJECT/Cyan%20-%20Prestige%20PROJECT.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "cyan-project",
+    "name": "Cyan - PROJECT",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cyan%20-%20PROJECT/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cyan%20-%20PROJECT/Cyan%20-%20PROJECT.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "cyan-heaven-galaxy-slayer",
+    "name": "Cyan Heaven - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cyan%20Heaven%20-%20Galaxy%20Slayer/Cyan_Heaven_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cyan%20Heaven%20-%20Galaxy%20Slayer/Cyan%20Heaven%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "cyan-ocean-shockblade",
+    "name": "Cyan Ocean - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cyan%20Ocean%20-%20Shockblade/Cyan_Ocean_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Cyan%20Ocean%20-%20Shockblade/Cyan%20Ocean%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "dark-crimson-cosmic-reaver",
+    "name": "Dark Crimson - Cosmic Reaver",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Crimson%20-%20Cosmic%20Reaver/Dark_Crimson_-_Cosmic_Reaver_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Crimson%20-%20Cosmic%20Reaver/Dark%20Crimson%20-%20Cosmic%20Reaver.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "dark-crimson-shockblade",
+    "name": "Dark Crimson - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Crimson%20-%20Shockblade/Dark_Crimson_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Crimson%20-%20Shockblade/Dark%20Crimson%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "demon-masked-shockblade",
+    "name": "Demon Masked - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Demon%20Masked%20-%20Shockblade/Demon_Masked_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Demon%20Masked%20-%20Shockblade/Demon%20Masked%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "dragon-clouds-shockblade",
+    "name": "Dragon Clouds - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dragon%20Clouds%20-%20Shockblade/Dragon_Clouds_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dragon%20Clouds%20-%20Shockblade/Dragon%20Clouds%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "emerald-death-sworn",
+    "name": "Emerald - Death Sworn",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Emerald%20-%20Death%20Sworn/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Emerald%20-%20Death%20Sworn/Emerald%20-%20Death%20Sworn.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "emerald-default",
+    "name": "Emerald - Default",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Emerald%20-%20Default/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Emerald%20-%20Default/Emerald%20-%20Default.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "emerald-worlds-2016",
+    "name": "Emerald - Worlds 2016",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Emerald%20-%20Worlds%202016/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Emerald%20-%20Worlds%202016/Emerald%20-%20Worlds%202016.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "emerald-nova-cosmic-reaver",
+    "name": "Emerald Nova - Cosmic Reaver",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Emerald%20Nova%20-%20Cosmic%20Reaver/Emerald_Nova_-_Cosmic_Reaver_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Emerald%20Nova%20-%20Cosmic%20Reaver/Emerald%20Nova%20-%20Cosmic%20Reaver.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "emisi-sun-shockblade",
+    "name": "Emisi Sun - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Emisi%20Sun%20-%20Shockblade/Emisi_Sun_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Emisi%20Sun%20-%20Shockblade/Emisi%20Sun%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "famous-quasar-quantum-galaxy-slayer",
+    "name": "Famous Quasar - Quantum Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Famous%20Quasar%20-%20Quantum%20Galaxy%20Slayer/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Famous%20Quasar%20-%20Quantum%20Galaxy%20Slayer/Famous%20Quasar%20-%20Quantum%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "fire-blaze-galaxy-slayer",
+    "name": "Fire Blaze - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fire%20Blaze%20-%20Galaxy%20Slayer/Fire_Blaze_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fire%20Blaze%20-%20Galaxy%20Slayer/Fire%20Blaze%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "frostfang-primal-ambush",
+    "name": "Frostfang - Primal Ambush",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Frostfang%20-%20Primal%20Ambush/Frostfang_-_Primal_Ambush_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Frostfang%20-%20Primal%20Ambush/Frostfang%20-%20Primal%20Ambush.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "gilded-outlaw-prestige-high-noon",
+    "name": "Gilded Outlaw - Prestige High Noon",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Gilded%20Outlaw%20-%20Prestige%20High%20Noon/Gilded_Outlaw_-_Prestige_High_Noon_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Gilded%20Outlaw%20-%20Prestige%20High%20Noon/Gilded%20Outlaw%20-%20Prestige%20High%20Noon.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "glacial-comet-cosmic-reaver",
+    "name": "Glacial Comet - Cosmic Reaver",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Glacial%20Comet%20-%20Cosmic%20Reaver/Glacial_Comet_-_Cosmic_Reaver_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Glacial%20Comet%20-%20Cosmic%20Reaver/Glacial%20Comet%20-%20Cosmic%20Reaver.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "gold-psyops",
+    "name": "Gold - PsyOps",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Gold%20-%20PsyOps/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Gold%20-%20PsyOps/Gold%20-%20PsyOps.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "golden-galaxy-cosmic-reaver",
+    "name": "Golden Galaxy - Cosmic Reaver",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Golden%20Galaxy%20-%20Cosmic%20Reaver/Golden_Galaxy_-_Cosmic_Reaver_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Golden%20Galaxy%20-%20Cosmic%20Reaver/Golden%20Galaxy%20-%20Cosmic%20Reaver.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "graffiti-quantum-galaxy-slayer",
+    "name": "Graffiti - Quantum Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Graffiti%20-%20Quantum%20Galaxy%20Slayer/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Graffiti%20-%20Quantum%20Galaxy%20Slayer/Graffiti%20-%20Quantum%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "grey-dust-blood-moon",
+    "name": "Grey Dust - Blood Moon",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Grey%20Dust%20-%20Blood%20Moon/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Grey%20Dust%20-%20Blood%20Moon/Grey%20Dust%20-%20Blood%20Moon.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "hall-of-frame-galaxy-slayer",
+    "name": "Hall of Frame - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hall%20of%20Frame%20-%20Galaxy%20Slayer/HallofFrame_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hall%20of%20Frame%20-%20Galaxy%20Slayer/Hall%20of%20Frame%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "hall-of-legends-quantum-galaxy-slayer",
+    "name": "Hall of Legends - Quantum Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hall%20of%20Legends%20-%20Quantum%20Galaxy%20Slayer/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hall%20of%20Legends%20-%20Quantum%20Galaxy%20Slayer/Hall%20of%20Legends%20-%20Quantum%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "ivory-crane-enduring-sword",
+    "name": "Ivory Crane - Enduring Sword",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ivory%20Crane%20-%20Enduring%20Sword/Ivory_Crane_-_Enduring_Sword_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ivory%20Crane%20-%20Enduring%20Sword/Ivory%20Crane%20-%20Enduring%20Sword.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "jade-blood-moon",
+    "name": "Jade - Blood Moon",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Jade%20-%20Blood%20Moon/DISCORD_Jade.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Jade%20-%20Blood%20Moon/Jade%20-%20Blood%20Moon.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "jade-prestige-spirit-blossom",
+    "name": "Jade - Prestige Spirit Blossom",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Jade%20-%20Prestige%20Spirit%20Blossom/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Jade%20-%20Prestige%20Spirit%20Blossom/Jade%20-%20Prestige%20Spirit%20Blossom.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "jade-skt-t1",
+    "name": "Jade - SKT T1",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Jade%20-%20SKT%20T1/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Jade%20-%20SKT%20T1/Jade%20-%20SKT%20T1.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "jade-serpent-enduring-sword",
+    "name": "Jade Serpent - Enduring Sword",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Jade%20Serpent%20-%20Enduring%20Sword/Jade_Serpent_-_Enduring_Sword_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Jade%20Serpent%20-%20Enduring%20Sword/Jade%20Serpent%20-%20Enduring%20Sword.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "jade-viper-high-noon",
+    "name": "Jade Viper - High Noon",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Jade%20Viper%20-%20High%20Noon/Jade_Viper_-_High_Noon_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Jade%20Viper%20-%20High%20Noon/Jade%20Viper%20-%20High%20Noon.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "legacy-shockblade",
+    "name": "Legacy - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Legacy%20-%20Shockblade/Legacy_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Legacy%20-%20Shockblade/Legacy%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "lotus-rift-bloom-shockblade",
+    "name": "Lotus Rift Bloom - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Lotus%20Rift%20Bloom%20-%20Shockblade/Lotus_Rift_Bloom_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Lotus%20Rift%20Bloom%20-%20Shockblade/Lotus%20Rift%20Bloom%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "magenta-prestige-project",
+    "name": "Magenta - Prestige PROJECT",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Magenta%20-%20Prestige%20PROJECT/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Magenta%20-%20Prestige%20PROJECT/Magenta%20-%20Prestige%20PROJECT.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "midnight-marshal-prestige-high-noon",
+    "name": "Midnight Marshal - Prestige High Noon",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Midnight%20Marshal%20-%20Prestige%20High%20Noon/Midnight_Marshal_-_Prestige_High_Noon_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Midnight%20Marshal%20-%20Prestige%20High%20Noon/Midnight%20Marshal%20-%20Prestige%20High%20Noon.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "obsidian-shockblade",
+    "name": "Obsidian - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Obsidian%20-%20Shockblade/Obsidian_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Obsidian%20-%20Shockblade/Obsidian%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "obsidian-gold-enduring-sword",
+    "name": "Obsidian Gold - Enduring Sword",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Obsidian%20Gold%20-%20Enduring%20Sword/Obsidian_Gold_-_Enduring_Sword_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Obsidian%20Gold%20-%20Enduring%20Sword/Obsidian%20Gold%20-%20Enduring%20Sword.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "obsidian-noble-count",
+    "name": "Obsidian Noble - Count",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Obsidian%20Noble%20-%20Count/Obsidian_Noble_-_Count_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Obsidian%20Noble%20-%20Count/Obsidian%20Noble%20-%20Count.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "phantom-radiance-debonair",
+    "name": "Phantom Radiance - Debonair",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Phantom%20Radiance%20-%20Debonair/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Phantom%20Radiance%20-%20Debonair/Phantom%20Radiance%20-%20Debonair.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "pink-blood-moon",
+    "name": "Pink - Blood Moon",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pink%20-%20Blood%20Moon/DISCORD_Pink.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pink%20-%20Blood%20Moon/Pink%20-%20Blood%20Moon.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "pink-purple-immortal-journey",
+    "name": "Pink Purple - Immortal Journey",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pink%20Purple%20-%20Immortal%20Journey/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pink%20Purple%20-%20Immortal%20Journey/Pink%20Purple%20-%20Immortal%20Journey.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "pink-thunder-shockblade",
+    "name": "Pink Thunder - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pink%20Thunder%20-%20Shockblade/Pink_Thunder_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pink%20Thunder%20-%20Shockblade/Pink%20Thunder%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "prestige-immortal-journey",
+    "name": "Prestige - Immortal Journey",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Prestige%20-%20Immortal%20Journey/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Prestige%20-%20Immortal%20Journey/Prestige%20-%20Immortal%20Journey.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "quasar-radiance-quantum-galaxy-slayer",
+    "name": "Quasar Radiance - Quantum Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Quasar%20Radiance%20-%20Quantum%20Galaxy%20Slayer/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Quasar%20Radiance%20-%20Quantum%20Galaxy%20Slayer/Quasar%20Radiance%20-%20Quantum%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "red-worlds-2016",
+    "name": "Red - Worlds 2016",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20-%20Worlds%202016/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20-%20Worlds%202016/Red%20-%20Worlds%202016.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "red-flame-shockblade",
+    "name": "Red Flame - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Flame%20-%20Shockblade/Red_Flame_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Flame%20-%20Shockblade/Red%20Flame%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "red-smoke-shockblade",
+    "name": "Red Smoke - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Smoke%20-%20Shockblade/Red_Smoke_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Smoke%20-%20Shockblade/Red%20Smoke%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "red-spark-galaxy-slayer",
+    "name": "Red Spark - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Spark%20-%20Galaxy%20Slayer/Red_Spark_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Spark%20-%20Galaxy%20Slayer/Red%20Spark%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "red-thunder-shockblade",
+    "name": "Red Thunder - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Thunder%20-%20Shockblade/Red_Thunder_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Thunder%20-%20Shockblade/Red%20Thunder%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "rose-prestige-spirit-blossom",
+    "name": "Rose - Prestige Spirit Blossom",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Rose%20-%20Prestige%20Spirit%20Blossom/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Rose%20-%20Prestige%20Spirit%20Blossom/Rose%20-%20Prestige%20Spirit%20Blossom.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "rubis-blade-immortal-journey",
+    "name": "Rubis Blade - Immortal Journey",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Rubis%20Blade%20-%20Immortal%20Journey/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Rubis%20Blade%20-%20Immortal%20Journey/Rubis%20Blade%20-%20Immortal%20Journey.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "ruby-death-sworn",
+    "name": "Ruby - Death Sworn",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ruby%20-%20Death%20Sworn/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ruby%20-%20Death%20Sworn/Ruby%20-%20Death%20Sworn.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "ruby-psyops",
+    "name": "Ruby - PsyOps",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ruby%20-%20PsyOps/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ruby%20-%20PsyOps/Ruby%20-%20PsyOps.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "sakura-shockblade",
+    "name": "Sakura - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sakura%20-%20Shockblade/Sakura_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sakura%20-%20Shockblade/Sakura%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "shockgalaxy-galaxy-slayer",
+    "name": "Shockgalaxy - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Shockgalaxy%20-%20Galaxy%20Slayer/Shockgalaxy_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Shockgalaxy%20-%20Galaxy%20Slayer/Shockgalaxy%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "shockgalaxy-fire-blaze-galaxy-slayer",
+    "name": "Shockgalaxy Fire Blaze - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Shockgalaxy%20Fire%20Blaze%20-%20Galaxy%20Slayer/Shockgalaxy_Fire_Blaze_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Shockgalaxy%20Fire%20Blaze%20-%20Galaxy%20Slayer/Shockgalaxy%20Fire%20Blaze%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "sian-galaxy-slayer",
+    "name": "Sian - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sian%20-%20Galaxy%20Slayer/Sian_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sian%20-%20Galaxy%20Slayer/Sian%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "silver-radiance-galaxy-slayer",
+    "name": "Silver Radiance - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Silver%20Radiance%20-%20Galaxy%20Slayer/SilverRadiance_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Silver%20Radiance%20-%20Galaxy%20Slayer/Silver%20Radiance%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "skt-t1-galaxy-slayer",
+    "name": "SKT T1 - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/SKT%20T1%20-%20Galaxy%20Slayer/SKT_T1_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/SKT%20T1%20-%20Galaxy%20Slayer/SKT%20T1%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "skt-t1-winter-galaxy-slayer",
+    "name": "SKT T1 Winter - Galaxy Slayer",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/SKT%20T1%20Winter%20-%20Galaxy%20Slayer/SKT_T1_Winter_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/SKT%20T1%20Winter%20-%20Galaxy%20Slayer/SKT%20T1%20Winter%20-%20Galaxy%20Slayer.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "solaris-default",
+    "name": "Solaris - Default",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Solaris%20-%20Default/Solaris_-_Default_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Solaris%20-%20Default/Solaris%20-%20Default.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "spirit-blossom-debonair",
+    "name": "Spirit Blossom - Debonair",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Spirit%20Blossom%20-%20Debonair/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Spirit%20Blossom%20-%20Debonair/Spirit%20Blossom%20-%20Debonair.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "white-worlds-2016",
+    "name": "White - Worlds 2016",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20-%20Worlds%202016/thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20-%20Worlds%202016/White%20-%20Worlds%202016.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "white-black-smoke-shockblade",
+    "name": "White Black Smoke - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20Black%20Smoke%20-%20Shockblade/White_Black_Smoke_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20Black%20Smoke%20-%20Shockblade/White%20Black%20Smoke%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "white-clouds-shockblade",
+    "name": "White Clouds - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20Clouds%20-%20Shockblade/White_Smoke_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20Clouds%20-%20Shockblade/White%20Clouds%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "white-smoke-shockblade",
+    "name": "White Smoke - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20Smoke%20-%20Shockblade/White_Clouds_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20Smoke%20-%20Shockblade/White%20Smoke%20-%20Shockblade.fantome",
+    "category": "chroma"
+  },
+  {
+    "id": "yellow-thunder-clouds-shockblade",
+    "name": "Yellow Thunder Clouds - Shockblade",
+    "title": "Custom Mod",
+    "author": "Northoff",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Yellow%20Thunder%20Clouds%20-%20Shockblade/Yellow_Thunder_Clouds_thumb.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Yellow%20Thunder%20Clouds%20-%20Shockblade/Yellow%20Thunder%20Clouds%20-%20Shockblade.fantome",
+    "category": "chroma"
   }
 ]
