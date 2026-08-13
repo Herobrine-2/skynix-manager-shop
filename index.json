@@ -1,16 +1,538 @@
 [
   {
-    "id": "angel-irelia-lexa-shop",
-    "name": "Angel Irelia By lexa",
-    "title": "İrelia",
-    "author": "lexa",
+    "id": "black-angel-zed-by-yh0nxx-by-yh0nxx",
+    "name": "Black Angel Zed By Yh0nxx by Yh0nxx",
+    "title": "Zed",
+    "author": "Yh0nxx by Yh0nxx",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Angel%20Zed%20By%20Yh0nxx%20by%20Yh0nxx/Ekran_goruntusu_2026-07-23_115757.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Angel%20Zed%20By%20Yh0nxx%20by%20Yh0nxx/Black%20Angel%20Zed%20By%20Yh0nxx%20by%20Yh0nxx.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "black-death-katarina-by-unknown",
+    "name": "Black Death Katarina by Unknown",
+    "title": "Katarina",
+    "author": "Unknown",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Death%20Katarina%20by%20Unknown/KatarinaLoadScreen_21.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Death%20Katarina%20by%20Unknown/Black%20Death%20Katarina%20by%20Unknown.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "blood-king-draven-by-disco-shaco",
+    "name": "Blood King Draven by DISCO SHACO",
+    "title": "Custom Mod",
+    "author": "DISCO SHACO",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood%20King%20Draven%20by%20DISCO%20SHACO/DravenLoadScreen_2.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood%20King%20Draven%20by%20DISCO%20SHACO/Blood%20King%20Draven%20by%20DISCO%20SHACO.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "demon-locke-by-heliz-by-heliz",
+    "name": "Demon Locke By Heliz by Heliz",
+    "title": "Custom Mod",
+    "author": "Heliz by Heliz",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Demon%20Locke%20By%20Heliz%20by%20Heliz/Locke_HighNoonSkin.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Demon%20Locke%20By%20Heliz%20by%20Heliz/Demon%20Locke%20By%20Heliz%20by%20Heliz.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "durdurulamaztasiyici-by-r4m0",
+    "name": "durdurulamaztasiyici  by r4m0",
+    "title": "Custom Mod",
+    "author": "r4m0",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/durdurulamaztasiyici%20%20by%20r4m0/zed.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/durdurulamaztasiyici%20%20by%20r4m0/durdurulamaztasiyici%20%20by%20r4m0.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "dxrk-sxde-zed-by-blend",
+    "name": "Dxrk Sxde Zed by blend",
+    "title": "Zed",
+    "author": "blend",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dxrk%20Sxde%20Zed%20by%20blend/zedloadscreen_1.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dxrk%20Sxde%20Zed%20by%20blend/Dxrk%20Sxde%20Zed%20by%20blend.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "f817-yasuo-by-fallen-skins",
+    "name": "F817 Yasuo by Fallen Skins",
+    "title": "Yasuo",
+    "author": "Fallen Skins",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/F817%20Yasuo%20by%20Fallen%20Skins/League_of_Legends_Screenshot_2025.08.21_-_21.21.33.77.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/F817%20Yasuo%20by%20Fallen%20Skins/F817%20Yasuo%20by%20Fallen%20Skins.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "fallen-zed-by-heliz-by-heliz",
+    "name": "Fallen Zed By Heliz by Heliz",
+    "title": "Zed",
+    "author": "Heliz by Heliz",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fallen%20Zed%20By%20Heliz%20by%20Heliz/zedloadscreen_1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fallen%20Zed%20By%20Heliz%20by%20Heliz/Fallen%20Zed%20By%20Heliz%20by%20Heliz.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "gold-kayn-by-medusabtw-noname",
+    "name": "Gold Kayn by MedusaBTW - noname",
+    "title": "Kayn",
+    "author": "MedusaBTW - noname",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Gold%20Kayn%20by%20MedusaBTW%20-%20noname/WhatsApp_Gorsel_2025-08-16_saat_17.20.49_7e16fc20.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Gold%20Kayn%20by%20MedusaBTW%20-%20noname/Gold%20Kayn%20by%20MedusaBTW%20-%20noname.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "hellfire-demon-zed-by-destroyer",
+    "name": "Hellfire Demon Zed by Destroyer",
+    "title": "Zed",
+    "author": "Destroyer",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hellfire%20Demon%20Zed%20by%20Destroyer/League_of_Legends_TM_Client_22.09.2025_21_49_34.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hellfire%20Demon%20Zed%20by%20Destroyer/Hellfire%20Demon%20Zed%20by%20Destroyer.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "katarina-darking-angle-by-unknown",
+    "name": "katarina darking angle by Unknown",
+    "title": "Katarina",
+    "author": "Unknown",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/katarina%20darking%20angle%20by%20Unknown/KatarinaLoadScreen_37.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/katarina%20darking%20angle%20by%20Unknown/katarina%20darking%20angle%20by%20Unknown.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "krom-zed-by-blend",
+    "name": "Krom Zed by blend",
+    "title": "Zed",
+    "author": "blend",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Krom%20Zed%20by%20blend/resim_2025-08-24_224359293.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Krom%20Zed%20by%20blend/Krom%20Zed%20by%20blend.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "midnight-zed-by-reznox",
+    "name": "Midnight Zed by RezNox",
+    "title": "Zed",
+    "author": "RezNox",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Midnight%20Zed%20by%20RezNox/ZedLoadScreen_1.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Midnight%20Zed%20by%20RezNox/Midnight%20Zed%20by%20RezNox.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "mythmaker-irelia-by-p1mek",
+    "name": "Mythmaker irelia by p1mek",
+    "title": "Irelia",
+    "author": "p1mek",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Mythmaker%20irelia%20by%20p1mek/54c7a9462795f89735ea905285abf4d2.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Mythmaker%20irelia%20by%20p1mek/Mythmaker%20irelia%20by%20p1mek.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "ninjared-zed-by-r4m0",
+    "name": "Ninjared Zed  by r4m0",
+    "title": "Zed",
+    "author": "r4m0",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ninjared%20Zed%20%20by%20r4m0/zed.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ninjared%20Zed%20%20by%20r4m0/Ninjared%20Zed%20%20by%20r4m0.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "noisette-zed-by-r4m0",
+    "name": "Noisette Zed by r4m0",
+    "title": "Zed",
+    "author": "r4m0",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Noisette%20Zed%20by%20r4m0/zedloadscreen_13.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Noisette%20Zed%20by%20r4m0/Noisette%20Zed%20by%20r4m0.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "obscure-zed-by-yh0nxx-by-yh0nxx",
+    "name": "obscure zed by yh0nxx by Yh0nxx",
+    "title": "Zed",
+    "author": "yh0nxx by Yh0nxx",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/obscure%20zed%20by%20yh0nxx%20by%20Yh0nxx/Dark_Aesthetic-photoaidcom-cropped.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/obscure%20zed%20by%20yh0nxx%20by%20Yh0nxx/obscure%20zed%20by%20yh0nxx%20by%20Yh0nxx.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "overvolt-zed-bw-by-r4m0",
+    "name": "Overvolt Zed BW by r4m0",
+    "title": "Zed",
+    "author": "r4m0",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Overvolt%20Zed%20BW%20by%20r4m0/kratzhll.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Overvolt%20Zed%20BW%20by%20r4m0/Overvolt%20Zed%20BW%20by%20r4m0.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "pink-angel-janna-by-heliz-by-heliz",
+    "name": "Pink Angel Janna By Heliz by Heliz",
+    "title": "Janna",
+    "author": "Heliz by Heliz",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pink%20Angel%20Janna%20By%20Heliz%20by%20Heliz/jannaloadscreen_8.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pink%20Angel%20Janna%20By%20Heliz%20by%20Heliz/Pink%20Angel%20Janna%20By%20Heliz%20by%20Heliz.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "pink-cat-qiyana-by-zuzu",
+    "name": "Pink Cat Qiyana by zuzu",
+    "title": "Qiyana",
+    "author": "zuzu",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pink%20Cat%20Qiyana%20by%20zuzu/qiyanaloadscreen_11.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Pink%20Cat%20Qiyana%20by%20zuzu/Pink%20Cat%20Qiyana%20by%20zuzu.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "purple-blade-kassadin-by-zuzu",
+    "name": "Purple Blade Kassadin by zuzu",
+    "title": "Kassadin",
+    "author": "zuzu",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Purple%20Blade%20Kassadin%20by%20zuzu/kassadinloadscreen_15.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Purple%20Blade%20Kassadin%20by%20zuzu/Purple%20Blade%20Kassadin%20by%20zuzu.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "quantum-venom-zed-by-r4m0",
+    "name": "Quantum Venom Zed by r4m0",
+    "title": "Zed",
+    "author": "r4m0",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Quantum%20Venom%20Zed%20by%20r4m0/zedloadscreen_68.skins_zed_skin68.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Quantum%20Venom%20Zed%20by%20r4m0/Quantum%20Venom%20Zed%20by%20r4m0.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "raven-talon-b-w-by-heliz",
+    "name": "Raven Talon B&W by Heliz",
+    "title": "Talon",
+    "author": "Heliz",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Raven%20Talon%20B%26W%20by%20Heliz/4fb7481468d23a74561a82412fc9b457.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Raven%20Talon%20B%26W%20by%20Heliz/Raven%20Talon%20B%26W%20by%20Heliz.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "revoodtz-zed-by-rawe",
+    "name": "Revoodtz Zed by rawe",
+    "title": "Zed",
+    "author": "rawe",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Revoodtz%20Zed%20by%20rawe/Revoodtz%20Zed%20by%20rawe_loadscreen.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Revoodtz%20Zed%20by%20rawe/Revoodtz%20Zed%20by%20rawe.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "rose-talon-by-heliz-by-heliz",
+    "name": "Rose Talon By Heliz by Heliz",
+    "title": "Talon",
+    "author": "Heliz by Heliz",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Rose%20Talon%20By%20Heliz%20by%20Heliz/db178b3cea4e5d364a9704340591ef22.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Rose%20Talon%20By%20Heliz%20by%20Heliz/Rose%20Talon%20By%20Heliz%20by%20Heliz.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "sable-talon-by-yh0nxx-by-yh0nxx",
+    "name": "Sable Talon By Yh0nxx by Yh0nxx",
+    "title": "Talon",
+    "author": "Yh0nxx by Yh0nxx",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sable%20Talon%20By%20Yh0nxx%20by%20Yh0nxx/Ekran_goruntusu_2026-05-21_172303.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sable%20Talon%20By%20Yh0nxx%20by%20Yh0nxx/Sable%20Talon%20By%20Yh0nxx%20by%20Yh0nxx.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "sacred-satan-diana-by-emoser",
+    "name": "Sacred Satan Diana by emoser",
+    "title": "Diana",
+    "author": "emoser",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sacred%20Satan%20Diana%20by%20emoser/b35de566ae681e64af68ef15373a5d20.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sacred%20Satan%20Diana%20by%20emoser/Sacred%20Satan%20Diana%20by%20emoser.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "sakura-zed-by-blend",
+    "name": "Sakura Zed by blend",
+    "title": "Zed",
+    "author": "blend",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sakura%20Zed%20by%20blend/Ekran_goruntusu_2025-08-13_145047.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sakura%20Zed%20by%20blend/Sakura%20Zed%20by%20blend.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "shadxw-yasuo-by-fallen-skins",
+    "name": "Shadxw Yasuo by Fallen Skins",
+    "title": "Yasuo",
+    "author": "Fallen Skins",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Shadxw%20Yasuo%20by%20Fallen%20Skins/League_of_Legends_Screenshot_2025.08.31_-_16.56.14.56.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Shadxw%20Yasuo%20by%20Fallen%20Skins/Shadxw%20Yasuo%20by%20Fallen%20Skins.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "shockblade-scorpion-zed-by-destroyer",
+    "name": "shockblade scorpion zed by Destroyer",
+    "title": "Zed",
+    "author": "Destroyer",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/shockblade%20scorpion%20zed%20by%20Destroyer/League_of_Legends_TM_Client_11.10.2025_21_47_49.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/shockblade%20scorpion%20zed%20by%20Destroyer/shockblade%20scorpion%20zed%20by%20Destroyer.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "silver-lightning-zed-by-blend",
+    "name": "Silver Lightning Zed by blend",
+    "title": "Zed",
+    "author": "blend",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Silver%20Lightning%20Zed%20by%20blend/League_of_Legends_Screenshot_2025.08.22_-_01.30.02.41.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Silver%20Lightning%20Zed%20by%20blend/Silver%20Lightning%20Zed%20by%20blend.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "t1-zed-by-yh0nxx",
+    "name": "T1 Zed by Yh0nxx",
+    "title": "Zed",
+    "author": "Yh0nxx",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/T1%20Zed%20by%20Yh0nxx/t1-faker-dwg-kia-ya-karsi-finallere-rahat-14349110_amp.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/T1%20Zed%20by%20Yh0nxx/T1%20Zed%20by%20Yh0nxx.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "talon-black-and-red-base-skin-by-turkesterone",
+    "name": "talon black and red base skin by Turkesterone",
+    "title": "Talon",
+    "author": "Turkesterone",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/talon%20black%20and%20red%20base%20skin%20by%20Turkesterone/image.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/talon%20black%20and%20red%20base%20skin%20by%20Turkesterone/talon%20black%20and%20red%20base%20skin%20by%20Turkesterone.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "talon-by-rez",
+    "name": "talon by rez",
+    "title": "Talon",
+    "author": "rez",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/talon%20by%20rez/TalonLoadscreen_39_LE.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/talon%20by%20rez/talon%20by%20rez.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "talongray-by-r4m0",
+    "name": "Talongray by r4m0",
+    "title": "Custom Mod",
+    "author": "r4m0",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Talongray%20by%20r4m0/talonloadscreen_12.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Talongray%20by%20r4m0/Talongray%20by%20r4m0.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "temudan-t1-talon-by-heliz-by-heliz",
+    "name": "Temudan T1 Talon By Heliz by Heliz",
+    "title": "Talon",
+    "author": "Heliz by Heliz",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Temudan%20T1%20Talon%20By%20Heliz%20by%20Heliz/db178b3cea4e5d364a9704340591ef22.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Temudan%20T1%20Talon%20By%20Heliz%20by%20Heliz/Temudan%20T1%20Talon%20By%20Heliz%20by%20Heliz.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "venom-zed-by-destroyer",
+    "name": "Venom Zed by Destroyer",
+    "title": "Zed",
+    "author": "Destroyer",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Venom%20Zed%20by%20Destroyer/League_of_Legends_TM_Client_15.10.2025_00_09_05.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Venom%20Zed%20by%20Destroyer/Venom%20Zed%20by%20Destroyer.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "white-smoke-talon-by-cresi",
+    "name": "White Smoke Talon by cresi",
+    "title": "Talon",
+    "author": "cresi",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20Smoke%20Talon%20by%20cresi/TalonLoadscreen_12.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20Smoke%20Talon%20by%20cresi/White%20Smoke%20Talon%20by%20cresi.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "white-talon-by-turkesterone-by-turkesterone",
+    "name": "white talon by turkesterone by Turkesterone",
+    "title": "Talon",
+    "author": "turkesterone by Turkesterone",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/white%20talon%20by%20turkesterone%20by%20Turkesterone/image.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/white%20talon%20by%20turkesterone%20by%20Turkesterone/white%20talon%20by%20turkesterone%20by%20Turkesterone.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "xanax-zed-by-heliz-by-heliz",
+    "name": "Xanax Zed By Heliz by Heliz",
+    "title": "Zed",
+    "author": "Heliz by Heliz",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Xanax%20Zed%20By%20Heliz%20by%20Heliz/zedloadscreen_1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Xanax%20Zed%20By%20Heliz%20by%20Heliz/Xanax%20Zed%20By%20Heliz%20by%20Heliz.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "zed-shockblade-white-thunder-by-destroyer",
+    "name": "Zed Shockblade White Thunder by Destroyer",
+    "title": "Zed",
+    "author": "Destroyer",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Zed%20Shockblade%20White%20Thunder%20by%20Destroyer/zedloadscreen_1.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Zed%20Shockblade%20White%20Thunder%20by%20Destroyer/Zed%20Shockblade%20White%20Thunder%20by%20Destroyer.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "fallen-angel-nasus-by-heliz-by-heliz",
+    "name": "Fallen Angel Nasus By Heliz by Heliz",
+    "title": "Nasus",
+    "author": "Heliz by Heliz",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fallen%20Angel%20Nasus%20By%20Heliz%20by%20Heliz/Nasus.jfif",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fallen%20Angel%20Nasus%20By%20Heliz%20by%20Heliz/Fallen%20Angel%20Nasus%20By%20Heliz%20by%20Heliz.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "lean-kayn-by-heliz-by-heliz",
+    "name": "Lean Kayn By Heliz by Heliz",
+    "title": "Kayn",
+    "author": "Heliz by Heliz",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Lean%20Kayn%20By%20Heliz%20by%20Heliz/Kayn.jfif",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Lean%20Kayn%20By%20Heliz%20by%20Heliz/Lean%20Kayn%20By%20Heliz%20by%20Heliz.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "sooty-zed-by-yh0nxx-by-yh0nxx",
+    "name": "Sooty Zed By Yh0nxx by Yh0nxx",
+    "title": "Zed",
+    "author": "Yh0nxx by Yh0nxx",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sooty%20Zed%20By%20Yh0nxx%20by%20Yh0nxx/680817668691810382.jfif",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Sooty%20Zed%20By%20Yh0nxx%20by%20Yh0nxx/Sooty%20Zed%20By%20Yh0nxx%20by%20Yh0nxx.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "angel-irelia-by-lexa-1-0-0-shop",
+    "name": "Angel Irelia by Lexa",
+    "title": "Irelia",
+    "author": "Lexa",
     "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Angel%20Irelia%20By%20lexa%201.0.0-shop/bc28fc6f2efdd76c3ea0a4f6417a5a2f.jpg",
     "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Angel%20Irelia%20By%20lexa%201.0.0-shop/Angel%20Irelia%20by%20Lexa.fantome",
     "category": "champion"
   },
   {
-    "id": "dreamland-majesty-qiyana-herobrine-shop",
-    "name": "Dreamland Majesty Qiyana By Herobrine",
+    "id": "ashen-edge-zed-by-herobrine-1-0-4-shop",
+    "name": "Ashen Edge Zed by Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ashen%20Edge%20Zed%20By%20Herobrine%201.0.4-shop/Gemini_Generated_Image_8szefe8szefe8sze.jpeg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ashen%20Edge%20Zed%20By%20Herobrine%201.0.4-shop/Ashen%20Edge%20Zed%20by%20Herobrine%201.0.4.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "black-angel-zed-by-herobrine-1-0-2-shop",
+    "name": "Black Angel Zed By Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Angel%20Zed%20By%20Herobrine%201.0.2-shop/zedloadscreen_angel.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Angel%20Zed%20By%20Herobrine%201.0.2-shop/Black%20Angel%20Zed%20By%20Herobrine%201.0.2.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "black-noon-yasuo-by-herobrine-1-0-1-shop",
+    "name": "Black Noon Yasuo by Herobrine",
+    "title": "Yasuo",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Noon%20Yasuo%20by%20Herobrine%201.0.1-shop/yasuoloadscreen_2.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Noon%20Yasuo%20by%20Herobrine%201.0.1-shop/Black%20Noon%20Yasuo%20by%20Herobrine%201.0.1.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "black-scorpion-zed-by-herobrine-1-0-1-shop",
+    "name": "Black Scorpion Zed by Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Scorpion%20Zed%20by%20Herobrine%201.0.1-shop/Gemini_Generated_Image_kkbzpxkkbzpxkkbz.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Scorpion%20Zed%20by%20Herobrine%201.0.1-shop/Black%20Scorpion%20Zed%20by%20Herobrine%201.0.1.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "black-void-zed-by-herobrine-1-0-1-shop",
+    "name": "Black Void Zed by Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Void%20Zed%20by%20Herobrine%201.0.1-shop/zedloadscreen_void.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Void%20Zed%20by%20Herobrine%201.0.1-shop/Black%20Void%20Zed%20by%20Herobrine%201.0.1.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "black-zed-black-smoke-by-herobrine-v1-0-4",
+    "name": "Black Zed Black Smoke By Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Zed%20Black%20Smoke%20by%20Herobrine%20v1.0.4/Gemini_Generated_Image_hvyiujhvyiujhvyi.jpeg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Zed%20Black%20Smoke%20by%20Herobrine%20v1.0.4/Black%20Zed%20Black%20Smoke%20By%20Herobrine%20v1.0.4.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "black-zed-white-smoke-by-herobrine-v1-0-4",
+    "name": "Black Zed White Smoke By Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Zed%20White%20Smoke%20By%20Herobrine%20v1.0.4/Gemini_Generated_Image_hvyiujhvyiujhvyi.jpeg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black%20Zed%20White%20Smoke%20By%20Herobrine%20v1.0.4/Black%20Zed%20White%20Smoke%20By%20Herobrine%20v1.0.4.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "blackwake-zed-by-herobrine-v1-0-3",
+    "name": "Blackwake Zed By Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blackwake%20Zed%20By%20Herobrine%20v1.0.3/zedloadscreen.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blackwake%20Zed%20By%20Herobrine%20v1.0.3/Blackwake%20Zed%20By%20Herobrine%20v1.0.3.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "blood-lotus-talon-by-herobrine-v1-0-1-shop",
+    "name": "Blood Lotus Talon By Herobrine",
+    "title": "Talon",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood%20Lotus%20Talon%20By%20Herobrine%20v1.0.1-shop/213e0c1c39d2f2f9.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood%20Lotus%20Talon%20By%20Herobrine%20v1.0.1-shop/Blood%20Lotus%20Talon%20By%20Herobrine%20v1.0.1.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "blood-reaper-zed-by-herobrine-1-0-3-shop",
+    "name": "Blood Reaper Zed by Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood%20Reaper%20Zed%20by%20Herobrine%201.0.3-shop/zedloadscreen_reaper.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood%20Reaper%20Zed%20by%20Herobrine%201.0.3-shop/Blood%20Reaper%20Zed%20by%20Herobrine%201.0.3.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "criyng-zed-black-by-herobrine-1-0-1",
+    "name": "Criyng Zed Black  by Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Criyng%20Zed%20Black%20by%20Herobrine%201.0.1/zedloadscreen_1.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Criyng%20Zed%20Black%20by%20Herobrine%201.0.1/Criyng%20Zed%20Black%20%20by%20Herobrine%201.0.1.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "dark-blood-vladimir-by-herobrine-1-0-1",
+    "name": "Dark Blood Vladimir by Herobrine",
+    "title": "Vladimir",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Blood%20Vladimir%20by%20Herobrine%201.0.1/AnyConv.com__vladimirloadscreen_5.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Blood%20Vladimir%20by%20Herobrine%201.0.1/Dark%20Blood%20Vladimir%20by%20Herobrine%201.0.1.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "dark-hell-talon-by-herobrine-1-0-2-shop",
+    "name": "Dark Hell Talon  by Herobrine",
+    "title": "Talon",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Hell%20Talon%20By%20Herobrine%201.0.2_shop/talonloadscreen_12_1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Hell%20Talon%20By%20Herobrine%201.0.2_shop/Dark%20Hell%20Talon%20%20by%20Herobrine%201.0.2.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "dark-star-zed-by-herobrine-v1-0-2-shop",
+    "name": "Dark Star Zed By Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Star%20Zed%20By%20Herobrine%20v1.0.2-shop/zedloadscreen_1_1.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Star%20Zed%20By%20Herobrine%20v1.0.2-shop/Dark%20Star%20Zed%20By%20Herobrine%20v1.0.2.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "dreamland-majesty-qiyana-by-herobrine-1-0-0-shop",
+    "name": "Dreamland Majesty Qiyana By Herobrine v1.0.0 (1)",
     "title": "Qiyana",
     "author": "Herobrine",
     "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dreamland%20Majesty%20Qiyana%20By%20Herobrine%201.0.0-shop/Gemini_Generated_Image_fhwy42fhwy42fhwy.png",
@@ -18,7 +540,79 @@
     "category": "champion"
   },
   {
-    "id": "pale-zed-yh0nxx-shop",
+    "id": "fallen-angle-kayn-by-herobrine-v1-0-0",
+    "name": "Fallen Angle Kayn By Herobrine",
+    "title": "Kayn",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fallen%20Angle%20Kayn%20By%20Herobrine%20v1.0.0/kaynloadscreen_20.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fallen%20Angle%20Kayn%20By%20Herobrine%20v1.0.0/Fallen%20Angle%20Kayn%20By%20Herobrine%20v1.0.0.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "fenerbahcel-zed-by-herobrine-v1-0-4",
+    "name": "Fenerbahcelı Zed by Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fenerbahcel%C4%B1%20Zed%20by%20Herobrine%20v1.0.4/zedloadscreen_fener.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fenerbahcel%C4%B1%20Zed%20by%20Herobrine%20v1.0.4/Fenerbahcel%C4%B1%20Zed%20by%20Herobrine%20v1.0.4.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "goth-briar-by-herobrine-v1-0-0",
+    "name": "Goth Briar By Herobrine",
+    "title": "Briar",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Goth%20Briar%20By%20Herobrine%20v1.0.0/briarloadscreen_0.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Goth%20Briar%20By%20Herobrine%20v1.0.0/Goth%20Briar%20By%20Herobrine%20v1.0.0.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "goth-soul-ahri-by-herobrine-v1-0-1",
+    "name": "Goth Soul Ahri by Herobrine",
+    "title": "Ahri",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Goth%20Soul%20Ahri%20by%20Herobrine%20v1.0.1/ahriloadscreen_42.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Goth%20Soul%20Ahri%20by%20Herobrine%20v1.0.1/Goth%20Soul%20Ahri%20by%20Herobrine%20v1.0.1.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "hello-kitty-zed-by-herobrine-v1-0-5-shop",
+    "name": "Hello Kitty Zed By Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hello%20Kitty%20Zed%20By%20Herobrine%20v1.0.5-shop/zedloadscreen_hello.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hello%20Kitty%20Zed%20By%20Herobrine%20v1.0.5-shop/Hello%20Kitty%20Zed%20By%20Herobrine%20v1.0.5.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "kiting-zed-v4-by-herobrine-v1-0-4-shop",
+    "name": "Kiting Zed v4 by Herobrine",
+    "title": "Zed",
+    "author": "Herobrine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Kiting%20Zed%20v4%20by%20Herobrine%20v1.0.4-shop/Zed.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Kiting%20Zed%20v4%20by%20Herobrine%20v1.0.4-shop/Kiting%20Zed%20v4%20by%20Herobrine%20v1.0.4.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "metalica-soul-kayn-by-drgraceculture-v1-0-1",
+    "name": "Metalica Soul Kayn by Drgraceculture",
+    "title": "Kayn",
+    "author": "Drgraceculture",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Metalica%20Soul%20Kayn%20by%20Drgraceculture%20v1.0.1/kaynloadscreen_20.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Metalica%20Soul%20Kayn%20by%20Drgraceculture%20v1.0.1/Metalica%20Soul%20Kayn%20by%20Drgraceculture%20v1.0.1.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "midnight-red-akali-by-herobirne-v1-0-0",
+    "name": "Midnight Red Akali By Herobirne",
+    "title": "Akali",
+    "author": "Herobirne",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Midnight%20Red%20Akali%20By%20Herobirne%20v1.0.0/akaliloadscreen_61.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Midnight%20Red%20Akali%20By%20Herobirne%20v1.0.0/Midnight%20Red%20Akali%20By%20Herobirne%20v1.0.0.fantome",
+    "category": "champion"
+  },
+  {
+    "id": "pale-zed-by-yh0nxx-1-0-0-shop",
     "name": "Pale Zed By Yh0nxx",
     "title": "Zed",
     "author": "Yh0nxx",
@@ -27,210 +621,12 @@
     "category": "champion"
   },
   {
-    "id": "ashen-edge-zed-by-herobrine-1-0-4-shop",
-    "name": "Ashen Edge Zed By Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ashen Edge Zed By Herobrine 1.0.4-shop/Gemini_Generated_Image_8szefe8szefe8sze.jpeg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Ashen Edge Zed By Herobrine 1.0.4-shop/Ashen%20Edge%20Zed%20by%20Herobrine%201.0.4.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "black-angel-zed-by-herobrine-1-0-2-shop",
-    "name": "Black Angel Zed By Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Angel Zed By Herobrine 1.0.2-shop/zedloadscreen_angel.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Angel Zed By Herobrine 1.0.2-shop/Black%20Angel%20Zed%20By%20Herobrine%201.0.2.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "black-noon-yasuo-by-herobrine-1-0-1-shop",
-    "name": "Black Noon Yasuo by Herobrine",
-    "title": "Yasuo",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Noon Yasuo by Herobrine 1.0.1-shop/yasuoloadscreen_2.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Noon Yasuo by Herobrine 1.0.1-shop/Black%20Noon%20Yasuo%20by%20Herobrine%201.0.1.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "black-scorpion-zed-by-herobrine-1-0-1-shop",
-    "name": "Black Scorpion Zed by Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Scorpion Zed by Herobrine 1.0.1-shop/Gemini_Generated_Image_kkbzpxkkbzpxkkbz.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Scorpion Zed by Herobrine 1.0.1-shop/Black%20Scorpion%20Zed%20by%20Herobrine%201.0.1.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "black-void-zed-by-herobrine-1-0-1-shop",
-    "name": "Black Void Zed by Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Void Zed by Herobrine 1.0.1-shop/zedloadscreen_void.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Void Zed by Herobrine 1.0.1-shop/Black%20Void%20Zed%20by%20Herobrine%201.0.1.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "black-zed-black-smoke-by-herobrine-v1-0-4",
-    "name": "Black Zed Black Smoke by Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Zed Black Smoke by Herobrine v1.0.4/Gemini_Generated_Image_hvyiujhvyiujhvyi.jpeg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Zed Black Smoke by Herobrine v1.0.4/Black%20Zed%20Black%20Smoke%20By%20Herobrine%20v1.0.4.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "black-zed-white-smoke-by-herobrine-v1-0-4",
-    "name": "Black Zed White Smoke By Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Zed White Smoke By Herobrine v1.0.4/Gemini_Generated_Image_hvyiujhvyiujhvyi.jpeg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black Zed White Smoke By Herobrine v1.0.4/Black%20Zed%20White%20Smoke%20By%20Herobrine%20v1.0.4.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "blackwake-zed-by-herobrine-v1-0-3",
-    "name": "Blackwake Zed By Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blackwake Zed By Herobrine v1.0.3/zedloadscreen.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blackwake Zed By Herobrine v1.0.3/Blackwake%20Zed%20By%20Herobrine%20v1.0.3.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "blood-lotus-talon-by-herobrine-v1-0-1-shop",
-    "name": "Blood Lotus Talon By Herobrine",
-    "title": "Talon",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood Lotus Talon By Herobrine v1.0.1-shop/213e0c1c39d2f2f9.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood Lotus Talon By Herobrine v1.0.1-shop/Blood%20Lotus%20Talon%20By%20Herobrine%20v1.0.1.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "blood-reaper-zed-by-herobrine-1-0-3-shop",
-    "name": "Blood Reaper Zed by Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood Reaper Zed by Herobrine 1.0.3-shop/zedloadscreen_reaper.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Blood Reaper Zed by Herobrine 1.0.3-shop/Blood%20Reaper%20Zed%20by%20Herobrine%201.0.3.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "criyng-zed-black-by-herobrine-1-0-1",
-    "name": "Criyng Zed Black by Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Criyng Zed Black by Herobrine 1.0.1/zedloadscreen_1.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Criyng Zed Black by Herobrine 1.0.1/Criyng%20Zed%20Black%20%20by%20Herobrine%201.0.1.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "dark-blood-vladimir-by-herobrine-1-0-1",
-    "name": "Dark Blood Vladimir by Herobrine",
-    "title": "Vladimir",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark Blood Vladimir by Herobrine 1.0.1/AnyConv.com__vladimirloadscreen_5.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark Blood Vladimir by Herobrine 1.0.1/Dark%20Blood%20Vladimir%20by%20Herobrine%201.0.1.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "dark-hell-talon-by-herobrine-1-0-2-shop",
-    "name": "Dark Hell Talon By Herobrine 1.0.2_shop",
-    "title": "Talon",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark Hell Talon By Herobrine 1.0.2_shop/talonloadscreen_12_1.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark Hell Talon By Herobrine 1.0.2_shop/Dark%20Hell%20Talon%20%20by%20Herobrine%201.0.2.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "dark-star-zed-by-herobrine-v1-0-2-shop",
-    "name": "Dark Star Zed By Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark Star Zed By Herobrine v1.0.2-shop/zedloadscreen_1_1.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark Star Zed By Herobrine v1.0.2-shop/Dark%20Star%20Zed%20By%20Herobrine%20v1.0.2.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "fallen-angle-kayn-by-herobrine-v1-0-0",
-    "name": "Fallen Angle Kayn By Herobrine",
-    "title": "Kayn",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fallen Angle Kayn By Herobrine v1.0.0/kaynloadscreen_20.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fallen Angle Kayn By Herobrine v1.0.0/Fallen%20Angle%20Kayn%20By%20Herobrine%20v1.0.0.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "fenerbahceli-zed-by-herobrine-v1-0-4",
-    "name": "Fenerbahcelı Zed by Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fenerbahcelı Zed by Herobrine v1.0.4/zedloadscreen_fener.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Fenerbahcelı Zed by Herobrine v1.0.4/Fenerbahcel%C4%B1%20Zed%20by%20Herobrine%20v1.0.4.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "goth-briar-by-herobrine-v1-0-0",
-    "name": "Goth Briar By Herobrine",
-    "title": "Briar",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Goth Briar By Herobrine v1.0.0/briarloadscreen_0.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Goth Briar By Herobrine v1.0.0/Goth%20Briar%20By%20Herobrine%20v1.0.0.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "goth-soul-ahri-by-herobrine-v1-0-1",
-    "name": "Goth Soul Ahri by Herobrine",
-    "title": "Ahri",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Goth Soul Ahri by Herobrine v1.0.1/ahriloadscreen_42.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Goth Soul Ahri by Herobrine v1.0.1/Goth%20Soul%20Ahri%20by%20Herobrine%20v1.0.1.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "hello-kitty-zed-by-herobrine-v1-0-5-shop",
-    "name": "Hello Kitty Zed By Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hello Kitty Zed By Herobrine v1.0.5-shop/zedloadscreen_hello.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hello Kitty Zed By Herobrine v1.0.5-shop/Hello%20Kitty%20Zed%20By%20Herobrine%20v1.0.5.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "kiting-zed-v4-by-herobrine-v1-0-4-shop",
-    "name": "Kiting Zed v4 by Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Kiting Zed v4 by Herobrine v1.0.4-shop/Zed.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Kiting Zed v4 by Herobrine v1.0.4-shop/Kiting%20Zed%20v4%20by%20Herobrine%20v1.0.4.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "metalica-soul-kayn-by-drgraceculture-v1-0-1",
-    "name": "Metalica Soul Kayn by Drgraceculture",
-    "title": "Kayn",
-    "author": "Drgraceculture",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Metalica Soul Kayn by Drgraceculture v1.0.1/kaynloadscreen_20.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Metalica Soul Kayn by Drgraceculture v1.0.1/Metalica%20Soul%20Kayn%20by%20Drgraceculture%20v1.0.1.fantome",
-    "category": "champion"
-  },
-  {
-    "id": "midnight-red-akali-by-herobirne-v1-0-0",
-    "name": "Midnight Red Akali By Herobirne",
-    "title": "Akali",
-    "author": "Herobirne",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Midnight Red Akali By Herobirne v1.0.0/akaliloadscreen_61.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Midnight Red Akali By Herobirne v1.0.0/Midnight%20Red%20Akali%20By%20Herobirne%20v1.0.0.fantome",
-    "category": "champion"
-  },
-  {
     "id": "purple-noon-yasuo-by-herobrine-v1-0-1-shop",
-    "name": "Purple Noon Yasuo By Herobrine",
+    "name": "Purple Noon Yasuo by Herobrine",
     "title": "Yasuo",
     "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Purple Noon Yasuo By Herobrine v1.0.1-shop/yasuoloadscreen_1.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Purple Noon Yasuo By Herobrine v1.0.1-shop/Purple%20Noon%20Yasuo%20by%20Herobrine%20v1.0.1.fantome",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Purple%20Noon%20Yasuo%20By%20Herobrine%20v1.0.1-shop/yasuoloadscreen_1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Purple%20Noon%20Yasuo%20By%20Herobrine%20v1.0.1-shop/Purple%20Noon%20Yasuo%20by%20Herobrine%20v1.0.1.fantome",
     "category": "champion"
   },
   {
@@ -238,8 +634,8 @@
     "name": "Red Blade Zed by Herobrine",
     "title": "Zed",
     "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red Blade Zed by Herobrine 1.0.3-shop/zedloadscreen_red.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red Blade Zed by Herobrine 1.0.3-shop/Red%20Blade%20Zed%20by%20Herobrine%201.0.3.fantome",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Blade%20Zed%20by%20Herobrine%201.0.3-shop/zedloadscreen_red.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Blade%20Zed%20by%20Herobrine%201.0.3-shop/Red%20Blade%20Zed%20by%20Herobrine%201.0.3.fantome",
     "category": "champion"
   },
   {
@@ -247,8 +643,8 @@
     "name": "Red Skull Zed by Herobrine",
     "title": "Zed",
     "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red Skull Zed by Herobrine v1.0.4/zedloadscreen_skull.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red Skull Zed by Herobrine v1.0.4/Red%20Skull%20Zed%20by%20Herobrine%20v1.0.4.fantome",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Skull%20Zed%20by%20Herobrine%20v1.0.4/zedloadscreen_skull.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Red%20Skull%20Zed%20by%20Herobrine%20v1.0.4/Red%20Skull%20Zed%20by%20Herobrine%20v1.0.4.fantome",
     "category": "champion"
   },
   {
@@ -256,8 +652,8 @@
     "name": "Rosey Luna Diana by Herobrine",
     "title": "Diana",
     "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Rosey Luna Diana by Herobrine v1.0.1/dianaloadscreen_47.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Rosey Luna Diana by Herobrine v1.0.1/Rosey%20Luna%20Diana%20by%20Herobrine%20v1.0.1.fantome",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Rosey%20Luna%20Diana%20by%20Herobrine%20v1.0.1/dianaloadscreen_47.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Rosey%20Luna%20Diana%20by%20Herobrine%20v1.0.1/Rosey%20Luna%20Diana%20by%20Herobrine%20v1.0.1.fantome",
     "category": "champion"
   },
   {
@@ -265,8 +661,8 @@
     "name": "Shadow God Zed  by Herobrine",
     "title": "Zed",
     "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Shadow God Zed  by Herobrine v1.0.4/zedloadscreen_god.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Shadow God Zed  by Herobrine v1.0.4/Shadow%20God%20Zed%20%20by%20Herobrine%20v1.0.4.fantome",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Shadow%20God%20Zed%20%20by%20Herobrine%20v1.0.4/zedloadscreen_god.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Shadow%20God%20Zed%20%20by%20Herobrine%20v1.0.4/Shadow%20God%20Zed%20%20by%20Herobrine%20v1.0.4.fantome",
     "category": "champion"
   },
   {
@@ -274,17 +670,17 @@
     "name": "Silent Blue Talon by Herobrine",
     "title": "Talon",
     "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Silent Blue Talon by Herobrine v1.0.1/talonloadscreen_12.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Silent Blue Talon by Herobrine v1.0.1/Silent%20Blue%20Talon%20by%20Herobrine%20v1.0.1.fantome",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Silent%20Blue%20Talon%20by%20Herobrine%20v1.0.1/talonloadscreen_12.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Silent%20Blue%20Talon%20by%20Herobrine%20v1.0.1/Silent%20Blue%20Talon%20by%20Herobrine%20v1.0.1.fantome",
     "category": "champion"
   },
   {
-    "id": "shogun-zed-by-herobrine-v1-0-3",
+    "id": "s-hogun-zed-by-herobrine-v1-0-3",
     "name": "Şhogun Zed By Herobrine",
     "title": "Zed",
     "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Şhogun Zed By Herobrine v1.0.3/zedloadscreen_shogun.png",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Şhogun Zed By Herobrine v1.0.3/%C5%9Ehogun%20Zed%20By%20Herobrine%20v1.0.3.fantome",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/%C5%9Ehogun%20Zed%20By%20Herobrine%20v1.0.3/zedloadscreen_shogun.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/%C5%9Ehogun%20Zed%20By%20Herobrine%20v1.0.3/%C5%9Ehogun%20Zed%20By%20Herobrine%20v1.0.3.fantome",
     "category": "champion"
   }
 ]
