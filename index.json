@@ -2482,5 +2482,53 @@
         "priceType":  "free",
         "champ":  "HUD Interface",
         "img":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Satanic%20hud%201.0.0/39c0bfae-b79c-45d1-c2fb-0548caf64000.webp"
+    },
+    {
+        "id":  "map-forcer-by-thekillerey",
+        "name":  "Map Forcer by TheKillerey",
+        "title":  "Map Mod",
+        "author":  "TheKillerey",
+        "previewUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Map%20Forcer%20by%20TheKillerey/1106df86-1502-4d43-ad77-d1191c15fc49.webp",
+        "downloadUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Map%20Forcer%20by%20TheKillerey/Map%20Forcer%20by%20TheKillerey.fantome",
+        "category":  "map",
+        "priceType":  "free",
+        "champ":  "Map",
+        "img":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Map%20Forcer%20by%20TheKillerey/1106df86-1502-4d43-ad77-d1191c15fc49.webp"
+    },
+    {
+        "id":  "noxus-rift-original-by-moga-v16-15-1-0-0",
+        "name":  "Noxus_Rift_Original_by_Moga_v16.15.1.0.0",
+        "title":  "Map Mod",
+        "author":  "Unknown",
+        "previewUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Noxus_Rift_Original_by_Moga_v16.15.1.0.0/583110c9-cdb4-4efe-bc93-f580170b6bfc.webp",
+        "downloadUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Noxus_Rift_Original_by_Moga_v16.15.1.0.0/Noxus_Rift_Original_by_Moga_v16.15.1.0.0.fantome",
+        "category":  "map",
+        "priceType":  "free",
+        "champ":  "Map",
+        "img":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Noxus_Rift_Original_by_Moga_v16.15.1.0.0/583110c9-cdb4-4efe-bc93-f580170b6bfc.webp"
+    },
+    {
+        "id":  "spirit-blossom-rift-by-moga-v16-16-2-26-0",
+        "name":  "Spirit_Blossom_Rift_by_Moga_v16.16.2.26.0",
+        "title":  "Map Mod",
+        "author":  "Unknown",
+        "previewUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Spirit_Blossom_Rift_by_Moga_v16.16.2.26.0/5e2d02e6-2204-41d2-aa91-a921c3d76bb6.webp",
+        "downloadUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Spirit_Blossom_Rift_by_Moga_v16.16.2.26.0/Spirit_Blossom_Rift_by_Moga_v16.16.2.26.0.fantome",
+        "category":  "map",
+        "priceType":  "free",
+        "champ":  "Map",
+        "img":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Spirit_Blossom_Rift_by_Moga_v16.16.2.26.0/5e2d02e6-2204-41d2-aa91-a921c3d76bb6.webp"
+    },
+    {
+        "id":  "winter-rift-2025-by-thekillerey",
+        "name":  "Winter Rift 2025 by TheKillerey",
+        "title":  "Map Mod",
+        "author":  "TheKillerey",
+        "previewUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Winter%20Rift%202025%20by%20TheKillerey/6ea8c755-fc34-481e-44e2-968cdc57d600.webp",
+        "downloadUrl":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Winter%20Rift%202025%20by%20TheKillerey/Winter%20Rift%202025%20by%20TheKillerey.fantome",
+        "category":  "map",
+        "priceType":  "free",
+        "champ":  "Map",
+        "img":  "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Winter%20Rift%202025%20by%20TheKillerey/6ea8c755-fc34-481e-44e2-968cdc57d600.webp"
     }
 ]
