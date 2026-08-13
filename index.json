@@ -1,5 +1,14 @@
 [
   {
+    "id": "angel-irelia-lexa-shop",
+    "name": "Angel Irelia By lexa",
+    "title": "İrelia",
+    "author": "lexa",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Angel%20Irelia%20By%20lexa%201.0.0-shop/bc28fc6f2efdd76c3ea0a4f6417a5a2f.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Angel%20Irelia%20By%20lexa%201.0.0-shop/Angel%20Irelia%20by%20Lexa.fantome",
+    "category": "champion"
+  },
+  {
     "id": "dreamland-majesty-qiyana-herobrine-shop",
     "name": "Dreamland Majesty Qiyana By Herobrine",
     "title": "Qiyana",
@@ -143,7 +152,6 @@
     "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark Star Zed By Herobrine v1.0.2-shop/Dark%20Star%20Zed%20By%20Herobrine%20v1.0.2.fantome",
     "category": "champion"
   },
-
   {
     "id": "fallen-angle-kayn-by-herobrine-v1-0-0",
     "name": "Fallen Angle Kayn By Herobrine",
