@@ -3010,5 +3010,62 @@
     "priceType": "free",
     "champ": "Brand",
     "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20Brand%20KeyJey%20by%20KeyJey/WhatsApp_Gorsel_2025-08-21_saat_13.42.37_415ce383.jpg"
+  },
+  {
+    "id": "black-death-jhin-v1-2-by-reznox",
+    "name": "Black Death Jhin V1.2 by RezNox",
+    "title": "Jhin",
+    "author": "RezNox",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black_Death_Jhin_V1.2_by_RezNox/C_O_S_M_O_S.jpeg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black_Death_Jhin_V1.2_by_RezNox/Black_Death_Jhin_V1.2_by_RezNox.fantome",
+    "category": "champion",
+    "priceType": "free",
+    "champ": "Jhin",
+    "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black_Death_Jhin_V1.2_by_RezNox/C_O_S_M_O_S.jpeg"
+  },
+  {
+    "id": "keyjey-janna-v3-1-by-keyjey",
+    "name": "Keyjey Janna V3.1 by Keyjey",
+    "title": "Janna",
+    "author": "Keyjey",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/keyjey%20janna%20V3.1%20by%20keyjey/90b72afb-519f-4a0b-8a7f-d77e1346a0f4.jpeg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/keyjey%20janna%20V3.1%20by%20keyjey/keyjey%20janna%20V3.1%20by%20keyjey.fantome",
+    "category": "champion",
+    "priceType": "free",
+    "champ": "Janna",
+    "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/keyjey%20janna%20V3.1%20by%20keyjey/90b72afb-519f-4a0b-8a7f-d77e1346a0f4.jpeg"
+  },
+  {
+    "id": "king-of-demons-hecarim-v1-fixed-by-rawest",
+    "name": "King Of Demons Hecarim V1.0 Fixed by rawest",
+    "title": "Hecarim",
+    "author": "rawest",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/King_Of_Demons_Hecarim_V1.%20Fixed%20by%20rawest/b7df3e7e-dd5d-45e9-9bda-d421a5eb8527.jpeg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/King_Of_Demons_Hecarim_V1.%20Fixed%20by%20rawest/King_Of_Demons_Hecarim_V1.%20Fixed%20by%20rawest.fantome",
+    "category": "champion",
+    "priceType": "free",
+    "champ": "Hecarim",
+    "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/King_Of_Demons_Hecarim_V1.%20Fixed%20by%20rawest/b7df3e7e-dd5d-45e9-9bda-d421a5eb8527.jpeg"
+  },
+  {
+    "id": "purple-blade-fix-by-herobine",
+    "name": "Purple Blade Fix By Herobine",
+    "title": "Zed",
+    "author": "Herobine",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Purple%20Blade%20Fix%20By%20Herobine/PURPLE_BLADE_SPLASH.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Purple%20Blade%20Fix%20By%20Herobine/Purple%20Blade%20Fix%20By%20Herobine.fantome",
+    "category": "champion",
+    "priceType": "free",
+    "champ": "Zed",
+    "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Purple%20Blade%20Fix%20By%20Herobine/PURPLE_BLADE_SPLASH.png"
+  },
+  {
+    "id": "black-death-jhin-v1-2-by-reznox-shop",
+    "name": "Black_Death_Jhin_V1.2_by_RezNox",
+    "title": "Custom Mod",
+    "author": "Unknown",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black_Death_Jhin_V1.2_by_RezNox%20shop/preview.jpeg",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black_Death_Jhin_V1.2_by_RezNox%20shop/Black_Death_Jhin_V1.2_by_RezNox.fantome",
+    "category": "add"
   }
 ]
