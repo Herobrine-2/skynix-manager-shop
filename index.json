@@ -3012,18 +3012,6 @@
     "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/White%20Brand%20KeyJey%20by%20KeyJey/WhatsApp_Gorsel_2025-08-21_saat_13.42.37_415ce383.jpg"
   },
   {
-    "id": "black-death-jhin-v1-2-by-reznox",
-    "name": "Black Death Jhin V1.2 by RezNox",
-    "title": "Jhin",
-    "author": "RezNox",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black_Death_Jhin_V1.2_by_RezNox/C_O_S_M_O_S.jpeg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black_Death_Jhin_V1.2_by_RezNox/Black_Death_Jhin_V1.2_by_RezNox.fantome",
-    "category": "champion",
-    "priceType": "free",
-    "champ": "Jhin",
-    "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black_Death_Jhin_V1.2_by_RezNox/C_O_S_M_O_S.jpeg"
-  },
-  {
     "id": "keyjey-janna-v3-1-by-keyjey",
     "name": "Keyjey Janna V3.1 by Keyjey",
     "title": "Janna",
@@ -3058,14 +3046,5 @@
     "priceType": "free",
     "champ": "Zed",
     "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Purple%20Blade%20Fix%20By%20Herobine/PURPLE_BLADE_SPLASH.png"
-  },
-  {
-    "id": "black-death-jhin-v1-2-by-reznox-shop",
-    "name": "Black_Death_Jhin_V1.2_by_RezNox",
-    "title": "Custom Mod",
-    "author": "Unknown",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black_Death_Jhin_V1.2_by_RezNox%20shop/preview.jpeg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Black_Death_Jhin_V1.2_by_RezNox%20shop/Black_Death_Jhin_V1.2_by_RezNox.fantome",
-    "category": "add"
   }
 ]
