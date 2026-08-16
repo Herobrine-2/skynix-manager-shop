@@ -3772,12 +3772,12 @@
     "name": "Talon Acheron - Emanator Dark",
     "title": "Talon",
     "author": "Unknown",
-    "previewUrl": "",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Talon%20Acheron%20-%20Emanator%20Dark/acheron-by-pao.gif",
     "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Talon%20Acheron%20-%20Emanator%20Dark/Talon%20Acheron%20-%20Emanator%20Dark%20by%20Frog.fantome",
     "category": "champion",
     "priceType": "free",
     "champ": "Talon",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Talon%20Acheron%20-%20Emanator%20Dark/acheron-by-pao.gif"
   },
   {
     "id": "tofas-rammus-1-0",
@@ -3850,5 +3850,17 @@
     "priceType": "free",
     "champ": "Zed",
     "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/%C5%9Ehogun%20Zed%20By%20Herobrine%20v1.0.3/zedloadscreen_shogun.png"
+  },
+  {
+    "id": "hate-of-the-night-talon-by-apathetic",
+    "name": "Hate Of The Night Talon by apathetic",
+    "title": "Talon",
+    "author": "apathetic",
+    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hate%20Of%20The%20Night%20Talon%20by%20apathetic/hateofthenight_talon.png",
+    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hate%20Of%20The%20Night%20Talon%20by%20apathetic/Hate%20Of%20The%20Night%20Talon%20by%20apathetic%20v1.0.fantome",
+    "category": "champion",
+    "priceType": "free",
+    "champ": "Talon",
+    "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Hate%20Of%20The%20Night%20Talon%20by%20apathetic/hateofthenight_talon.png"
   }
 ]
