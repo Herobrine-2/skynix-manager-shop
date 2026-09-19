@@ -1128,18 +1128,6 @@
     "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Lord%20Viego%20By%20Yureva/727964727303401729.png"
   },
   {
-    "id": "dark-star-zed-by-herobrine",
-    "name": "Dark Star Zed By Herobrine",
-    "title": "Zed",
-    "author": "Herobrine",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Star%20Zed%20By%20Herobrine/zedloadscreen_1_1.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Star%20Zed%20By%20Herobrine/Dark%20Star%20Zed%20By%20Herobrine.fantome",
-    "category": "champion",
-    "priceType": "free",
-    "champ": "Zed",
-    "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Dark%20Star%20Zed%20By%20Herobrine/zedloadscreen_1_1.jpg"
-  },
-  {
     "id": "dawnbringerirelia-110",
     "name": "Dawnbringer_Irelia-1.1.0",
     "title": "Irelia",
@@ -2050,18 +2038,6 @@
     "priceType": "free",
     "champ": "Hecarim",
     "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/King_Of_Demons_Hecarim_V1.%20Fixed%20by%20rawest/b7df3e7e-dd5d-45e9-9bda-d421a5eb8527.jpeg"
-  },
-  {
-    "id": "kiting-zed-v3-by-satanic",
-    "name": "Kiting Zed V3 by satanic",
-    "title": "Zed",
-    "author": "satanic",
-    "previewUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Kiting%20Zed%20V3%20by%20satanic/Screenshot_2026-02-09-23-57-39-549_com.miui.gallery-edit.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Kiting%20Zed%20V3%20by%20satanic/Kiting%20Zed%20V3%20by%20satanic.fantome",
-    "category": "champion",
-    "priceType": "free",
-    "champ": "Zed",
-    "img": "https://raw.githubusercontent.com/Herobrine-2/skynix-manager-shop/main/mods/Kiting%20Zed%20V3%20by%20satanic/Screenshot_2026-02-09-23-57-39-549_com.miui.gallery-edit.jpg"
   },
   {
     "id": "kiting-zed-v4-by-herobrine",
